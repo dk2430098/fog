@@ -1,0 +1,21 @@
+# Git Setup and Submission
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.DS_Store
+.vscode/
+.idea/
+
+# Keep only demo materials, not all generated images
+input_images/*.png
+input_images/*.jpg
+output_images/
+!demo_outputs/comparison_grid.jpg
+!demo_outputs/demo_video.mp4
