@@ -279,4 +279,4 @@ This project is created for educational and demonstration purposes.
 - Single person portraits or group photos
 - Reasonably lit images (not extremely dark)
 - Images where the person is the main subject
-# fog
+
