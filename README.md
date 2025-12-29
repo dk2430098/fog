@@ -265,7 +265,7 @@ This project is created for educational and demonstration purposes.
 
 ## 👨‍💻 Author
 
-**Himanshu Kumar**
+**Deepak Kumar**
 
 ## 🙏 Acknowledgments
 
